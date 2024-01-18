@@ -9,11 +9,11 @@
 
 - I’m currently learning **PostgreSQL**
 
-- 💬 Ask me about **html,css,node.js,express.js,MongoDB,DSA**
+-  Ask me about **html,css,node.js,express.js,MongoDB,DSA**
 
-- 📫 How to reach me **ashercode@gmail.com**
+-  How to reach me **ashercode@gmail.com**
 
-- ⚡ Fun fact **I am a gymrat**
+-  Fun fact **I am a gymrat**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
