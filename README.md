@@ -1,4 +1,4 @@
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![logo](https://github.com/AshishBKallada/AshishBKallada/blob/main/gitbanner.png) 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![logo](https://github.com/AshishBKallada/AshishBKallada/blob/main/gitbanner.png) 
 
 <h1 align="center">Hi 👋, I'm Ashish B Kallada</h1>
 <h3 align="center">A passionate full stack developer from India,Kerala,Kochi</h3>
