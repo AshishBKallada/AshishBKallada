@@ -14,7 +14,7 @@
 -  How to reach me **ashercode@gmail.com**
 
 -  Fun fact **I am a gymrat**
-
+<br>
 <h3 align="left">Connect with me:</h3>
 <br>
 <p align="left">
