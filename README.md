@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashish B Kallada</h1>
 <h3 align="center">A passionate full stack developer from India,Kerala,Kochi</h3>
 
-<img align="right" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw22rpq9o8AXyAp8iA3ZtToQ&ust=1705669510648000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOjr2JyA54MDFQAAAAAdAAAAABAs">
+<img align="right" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishbkallada&label=Profile%20views&color=0e75b6&style=flat" alt="ashishbkallada" /> </p>
 
