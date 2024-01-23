@@ -9,7 +9,7 @@
 
 - I’m currently working on **Bassheads-Ecommerce**
 
-- I’m currently learning **PostgreSQL**
+- I’m currently learning **React.js**
 
 -  Ask me about **html,css,node.js,express.js,MongoDB,DSA**
 
