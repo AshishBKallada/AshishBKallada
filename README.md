@@ -22,7 +22,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/ashish b kallada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashish b kallada" height="30" width="40" /></a>
 <a href="https://fb.com/ashish b kallada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashish b kallada" height="30" width="40" /></a>
-<a href="https://instagram.com/___ashixx___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="___ashixx___" height="30" width="40" /></a>
+<a href="https://instagram.com/___aashixx___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="___ashixx___" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ashishbkallada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ashishbkallada" height="30" width="40" /></a>
 </p>
 
