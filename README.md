@@ -11,7 +11,7 @@
 
 - I’m also learning  **JS hardcore concepts & React tools**
 
--  Ask me about **html, css, C, C++, Js, Ts, node.js, express.js, MongoDB, mariaDB, MySQL, PosgreSQL, DSA, React, Firebase, Cloudinary, AWS s3, Clean / MVC arch**
+-  Ask me about **html, css, C, C++, Js, Ts, PHP, node.js, express.js, MongoDB, mariaDB, MySQL, PosgreSQL, DSA, React, Firebase, Cloudinary, AWS s3, Clean / MVC arch**
 
 -  How to reach me **ashercode@gmail.com**
 
