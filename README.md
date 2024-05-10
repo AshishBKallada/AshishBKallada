@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishbkallada&label=Profile%20views&color=0e75b6&style=flat" alt="ashishbkallada" /> </p>
 
-- I’m currently working on **Bassheads-Ecommerce**
+- I’m currently working on **GRAMHIVE - Social media platform**
 
-- I’m currently doing a social media project **GRAMHIVE**
+- I’m also learning  **JS hardcore concepts & React tools**
 
 -  Ask me about **html,css,node.js,express.js,MongoDB,DSA**
 
