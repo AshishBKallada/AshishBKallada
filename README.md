@@ -9,7 +9,7 @@
 
 - I’m currently working on **Bassheads-Ecommerce**
 
-- I’m currently learning **React.js**
+- I’m currently doing a social media project **GRAMHIVE**
 
 -  Ask me about **html,css,node.js,express.js,MongoDB,DSA**
 
