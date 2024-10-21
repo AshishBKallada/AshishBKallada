@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishbkallada&label=Profile%20views&color=0e75b6&style=flat" alt="ashishbkallada" /> </p>
 
-- I’m currently working on **GRAMHIVE - Social media platform**
+- I’m currently working on **Curengo**
 
-- I’m also learning  **JS hardcore concepts & React tools**
+- I’m also learning  **Gsap and framer motion**
 
 -  Ask me about **html, css, C, C++, Js, Ts, PHP, node.js, express.js, MongoDB, mariaDB, MySQL, PosgreSQL, DSA, React, Firebase, Cloudinary, AWS s3, Clean / MVC arch**
 
