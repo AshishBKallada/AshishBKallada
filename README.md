@@ -13,7 +13,7 @@
 
 -  Ask me about **html, css, C, C++, Js, Ts, PHP, node.js, express.js, MongoDB, mariaDB, MySQL, PosgreSQL, DSA, React, Firebase, Cloudinary, AWS s3, Clean / MVC arch**
 
--  How to reach me **ashercode@gmail.com**
+-  How to reach me **ashercode4u@gmail.com**
 
 -  Fun fact **I am a gymrat**
 <br>
