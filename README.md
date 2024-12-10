@@ -15,7 +15,8 @@
 
 -  How to reach me **ashercode4u@gmail.com**
 
--  Fun fact **I am a gymrat**
+-  Fun fact **It was recently that , i slowly realised that i am realising things slowly !
+-  funny enough ha huh !**
 <br>
 <h3 align="left">Connect with me:</h3>
 <br>
