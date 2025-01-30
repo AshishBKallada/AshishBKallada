@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Ashish B Kallada</h1>
-<h3 align="center">A passionate full stack developer (MERN) from India,Kerala,Kochi</h3>
+<h3 align="center">A passionate MERN stack developer from India,Kerala,Kochi</h3>
 <br>
 <img align="right" width="400" src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
