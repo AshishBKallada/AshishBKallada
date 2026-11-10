@@ -15,8 +15,7 @@
 
 -  How to reach me **ashercode4u@gmail.com**
 
--  Fun fact **It was recently that , i slowly realised that i am realising things slowly !
--  funny enough ha huh !**
+-  Fun fact **Obsession beats talent, homie!**
 <br>
 <h3 align="left">Connect with me:</h3>
 <br>
