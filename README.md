@@ -1,37 +1,114 @@
-
-
-<h1 align="center">Hi 👋, I'm Ashish B Kallada</h1>
-<h3 align="center">A passionate MERN stack developer from India,Kerala,Kochi</h3>
-<br>
-<img align="right" width="400" src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishbkallada&label=Profile%20views&color=0e75b6&style=flat" alt="ashishbkallada" /> </p>
-
-- I’m currently working on **MAMBA - A peronsal AI assistant**
-
-- I’m also learning  **Gsap and threejs**
-
--  Ask me about **html, css, C, C++, Js, Ts, PHP, node.js, express.js, MongoDB, mariaDB, MySQL, PosgreSQL, DSA, React, Firebase, Cloudinary, AWS s3, Clean / MVC arch**
-
--  How to reach me **ashercode4u@gmail.com**
-
--  Fun fact **Obsession beats talent, homie!**
-<br>
-<h3 align="left">Connect with me:</h3>
-<br>
-<p align="left">
-<a href="https://linkedin.com/in/ashish b kallada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashish b kallada" height="30" width="40" /></a>
-<a href="https://fb.com/ashish b kallada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashish b kallada" height="30" width="40" /></a>
-<a href="https://instagram.com/___aashixx___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="___ashixx___" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ashishbkallada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ashishbkallada" height="30" width="40" /></a>
+<!-- Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,55:7A0C10,100:FF3B3B&height=210&section=header&text=Ashish%20B%20Kallada&fontSize=56&fontColor=FFFFFF&fontAlignY=38&desc=Full-stack%20%C2%B7%20Mobile%20Engineer&descSize=18&descAlignY=60&animation=fadeIn" alt="Ashish B Kallada" width="100%" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<br>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://portfolio-ashcode.vercel.app">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=FF3B3B&center=true&vCenter=true&width=620&lines=React+%C2%B7+React+Native+%C2%B7+Next.js+%C2%B7+Node.js;Real-time+voice+AI+with+LiveKit;Microservices+with+Kafka+%26+gRPC;Shipping+on+Docker%2C+Kubernetes+%26+AWS" alt="Typing intro" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashishbkallada&show_icons=true&locale=en&layout=compact" alt="ashishbkallada" /></p>
+<p align="center">
+  <a href="https://portfolio-ashcode.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=FF3B3B" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/ashish-b-kallada-330312295"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=FF3B3B" alt="LinkedIn" /></a>
+  <a href="https://leetcode.com/ashishbkallada"><img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=FF3B3B" alt="LeetCode" /></a>
+  <a href="mailto:ashercode4u@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=FF3B3B" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=ashishbkallada&label=Profile%20views&color=FF3B3B&style=for-the-badge" alt="Profile views" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashishbkallada&show_icons=true&locale=en" alt="ashishbkallada" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashishbkallada&" alt="ashishbkallada" /></p>
+### `> whoami`
+
+```ts
+const ashish = {
+  role:      "Full-stack & Mobile Engineer",
+  based:     "Hyderabad, India",
+  building:  ["cross-platform mobile apps", "real-time voice AI", "scalable Node.js backends"],
+  learning:  ["GSAP", "Three.js", "system design"],
+  askMeAbout: ["React / React Native", "Node.js microservices", "MongoDB & PostgreSQL", "DSA"],
+  motto:     "Obsession beats talent.",
+};
+```
+
+---
+
+### Tech stack
+
+<p align="center">
+  <sub><b>Frontend & Mobile</b></sub><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux,html,css,threejs&theme=dark" alt="Frontend and mobile" />
+</p>
+<p align="center">
+  <sub><b>Backend & Data</b></sub><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,kafka,php,python,mongodb,postgres,mysql,redis&theme=dark" alt="Backend and data" />
+</p>
+<p align="center">
+  <sub><b>Cloud & Tooling</b></sub><br/>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,nginx,linux,git,github,postman,figma&theme=dark" alt="Cloud and tooling" />
+</p>
+
+---
+
+### Featured work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>Portfolio — ashcode</h4>
+      <p>Personal site with GSAP and Three.js motion, built in Next.js and TypeScript.</p>
+      <a href="https://portfolio-ashcode.vercel.app"><img src="https://img.shields.io/badge/Live-FF3B3B?style=flat-square&logo=vercel&logoColor=white" alt="Live" /></a>
+      <a href="https://github.com/AshishBKallada/portfolio_ashcode"><img src="https://img.shields.io/badge/Code-0D1117?style=flat-square&logo=github&logoColor=white" alt="Code" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>GramHive</h4>
+      <p>Full MERN social media app: feeds, posts, follows and real-time interactions.</p>
+      <a href="https://gramhive.vercel.app"><img src="https://img.shields.io/badge/Live-FF3B3B?style=flat-square&logo=vercel&logoColor=white" alt="Live" /></a>
+      <a href="https://github.com/AshishBKallada/GramHive-Frontend"><img src="https://img.shields.io/badge/Frontend-0D1117?style=flat-square&logo=github&logoColor=white" alt="Frontend code" /></a>
+      <a href="https://github.com/AshishBKallada/GramHive-Backend"><img src="https://img.shields.io/badge/Backend-0D1117?style=flat-square&logo=github&logoColor=white" alt="Backend code" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>Stepper</h4>
+      <p>Reusable React stepper for multi-step forms with built-in validation.</p>
+      <a href="https://stepper-hazel.vercel.app"><img src="https://img.shields.io/badge/Live-FF3B3B?style=flat-square&logo=vercel&logoColor=white" alt="Live" /></a>
+      <a href="https://github.com/AshishBKallada/Stepper"><img src="https://img.shields.io/badge/Code-0D1117?style=flat-square&logo=github&logoColor=white" alt="Code" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>Weatherify</h4>
+      <p>Fast, responsive weather app with a clean, seamless UI.</p>
+      <a href="https://weatherify-gilt.vercel.app"><img src="https://img.shields.io/badge/Live-FF3B3B?style=flat-square&logo=vercel&logoColor=white" alt="Live" /></a>
+      <a href="https://github.com/AshishBKallada/Weatherify"><img src="https://img.shields.io/badge/Code-0D1117?style=flat-square&logo=github&logoColor=white" alt="Code" /></a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### GitHub at a glance
+
+<p align="center">
+  <img width="100%" src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile details" />
+</p>
+<p align="center">
+  <img width="49%" src="./profile-summary-card-output/github_dark/3-stats.svg" alt="Stats" />
+  <img width="49%" src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most commit language" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ashishbkallada&hide_border=true&background=0D1117&ring=FF3B3B&fire=FF3B3B&currStreakLabel=FF3B3B&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&stroke=30363D" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AshishBKallada/AshishBKallada/output/snake-dark.svg" />
+    <img width="100%" src="https://raw.githubusercontent.com/AshishBKallada/AshishBKallada/output/snake-light.svg" alt="Contribution snake" />
+  </picture>
+</p>
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF3B3B,45:7A0C10,100:0D1117&height=110&section=footer" alt="" width="100%" />
+</p>
